@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProjectExtraClase1</string>
+    <string name="calculadora">CALCULADORA</string>
+
+    <string name="calculadora2">CALCULADORA DE IMC</string>
+    <string name="subtitulo1">Altura</string>
+    <string name="descripcion1">En centimetros</string>
+
+    <string name="subtitulo2">Peso</string>
+    <string name="descripcion2">En kilogramos</string>
+
+    <string name="calcular">Calcular</string>
+
+    <string name="imc">Calculadora IMC</string>
+    <string name="calculadora3">Calculadora Comun</string>
+    <string name="conversor">Calculadora Convertir</string>
+
+</resources>
